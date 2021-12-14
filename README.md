@@ -1,2 +1,2 @@
 # aplicacaophp
-Aplicação para a aula de PDWEL
+Aplicação de um blog para a aula de PDWEL
